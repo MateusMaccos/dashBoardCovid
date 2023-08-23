@@ -75,7 +75,7 @@ app.layout = dbc.Container(
             dbc.Button("BRASIL",color="primary",id="location-button",size="lg"),
             ],style={"background-color": "#1E1E1E", "margin": "-25px", "padding": "25px"}),
             html.P("Informe a data na qual deseja obter informações:",style={
-              "margin-top:": "40px"  
+              "margin-top": "40px"  
             }),
             html.Div(id="div-test", children=[
                 dcc.DatePickerSingle(
