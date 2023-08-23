@@ -41,16 +41,16 @@ O projeto é uma forma diferente de visualizar os dados disponibilizados pelo si
 
 
 ### Tela inicial
-![dashboard1](https://github.com/MateusMaccos/dashBoardCovid/assets/75508372/1dd8cf03-1d76-4ecc-89d5-294e95afd865)
+![dashboard1](https://github.com/MateusMaccos/dashBoardCovid/blob/main/assets/dashboard1.png)
 
 ### Seleção da data desejada
-![dashboard2](https://github.com/MateusMaccos/dashBoardCovid/assets/75508372/d5b5c140-2f8e-4d36-a96e-329825706674)
+![dashboard2](https://github.com/MateusMaccos/dashBoardCovid/blob/main/assets/dashboard2.png)
 
 ### Seleção da informação desejada
-![dashboard3](https://github.com/MateusMaccos/dashBoardCovid/assets/75508372/9481b734-82e7-4b54-a0f3-93ff8c44d067)
+![dashboard3](https://github.com/MateusMaccos/dashBoardCovid/blob/main/assets/dashboard3.png)
 
 ### Seleção por Estado
-![dashboard4](https://github.com/MateusMaccos/dashBoardCovid/assets/75508372/c87d3952-8546-40c8-a69d-5bfaaa83332f)
+![dashboard4](https://github.com/MateusMaccos/dashBoardCovid/blob/main/assets/dashboard4.png)
 
 
 
