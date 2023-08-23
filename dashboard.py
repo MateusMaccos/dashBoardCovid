@@ -10,7 +10,7 @@ import pandas as pd
 import json
 
 # df = pd.read_csv("HIST_PAINEL_COVIDBR_2021_Parte2_18ago2023.csv",sep=";")
-# df_states = df[~df['estado'].isna() & (df['codmun'].isna())]
+# df_states = df[(~df['estado'].isna()) & (df['codmun'].isna())]
 # df_brasil = df[df['regiao']=='Brasil']
 # df_brasil.to_csv('df_brasil.csv')
 # df_states.to_csv('df_states.csv')
@@ -220,7 +220,7 @@ def update_map(date):
     )
     fig.update_layout(
         paper_bgcolor="#242424",
-        plot_bgcolor="#242424",
+        mapbox_style="carto-darkmatter",
         autosize=True,
         margin=dict(l=0,r=0,t=0,b=0),
         showlegend=False
